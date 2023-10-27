@@ -2,23 +2,14 @@
 
 This repository contains python based interactive Tic-Tac-Toe game.
 
+##
+
+![App Screenshot]("https://github.com/amit862/Tic-Tae-Toc-Game/blob/main/images/screenshot.png")
+
+
 ## Running Tic-Tac-Toe:
 
 ```
-git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
-python main.py
-```
-
-<p align="center">
-<img src="/images/preview.gif">
-</p>
-
-## Screenshots
-<p align="center">
-<img width=1000 src="/images/screenshot.png">
-
-</p>
 
 ## Controls
 1. Player X starts the game
@@ -28,7 +19,4 @@ python main.py
 5. Click anywhere on the result screen to play again
 
 
-
-## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
 
