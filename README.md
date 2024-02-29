@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This repository contains python based interactive Tic-Tac-Toe game.
+This repository contains a Python-based interactive Tic-Tac-Toe game.
 
 ##
 
